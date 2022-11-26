@@ -18,7 +18,7 @@
     <div class="container">
         <div class="row mt-5">
             <div class="col-10">
-                <h1><i class="fa fa-store"></i>MAGMALAN KA | ONLINE SHOP</h1>
+                <h1><i class="fa fa-store"></i>SALI NAKA | ONLINE SHOP</h1>
             </div>
             <div class="col-2 text-right">
                 <a href="cart.php" class="btn btn-primary">
